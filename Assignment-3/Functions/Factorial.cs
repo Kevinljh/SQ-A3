@@ -15,9 +15,6 @@ namespace Functions
         public static int Calc(int i) 
         { 
             return((i <= 1) ? 1 : (i * Calc(i-1))); 
-
-
-
         } 
     }
 }
