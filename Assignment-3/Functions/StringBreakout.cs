@@ -85,8 +85,8 @@ namespace Functions
             return count;
         }
 
-        // http://msdn.microsoft.com/en-us/library/ms182532.aspx
-        public static int FindAndExtractDigit(string theString)
+        
+        public static int FindAndExtractDigits(string theString)
         {
             int digits = 0;
             string stringDigits = "";

@@ -54,6 +54,7 @@ class FunctionClient
             try
             {
                 extractedNumberFromString = Int32.Parse(args[i]);
+                
                 Console.WriteLine("   >>> {0}! = {1}", extractedNumberFromString, Factorial.Calc(extractedNumberFromString));
             }
             catch (FormatException e)
