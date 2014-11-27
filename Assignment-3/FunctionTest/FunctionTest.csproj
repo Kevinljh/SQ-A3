@@ -60,12 +60,6 @@
     <Compile Include="FunctionClient.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Functions\Functions.csproj">
-      <Project>{7F211D15-CCEB-4240-BE60-E48D37B5443F}</Project>
-      <Name>Functions</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
       <Visible>False</Visible>
       <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
