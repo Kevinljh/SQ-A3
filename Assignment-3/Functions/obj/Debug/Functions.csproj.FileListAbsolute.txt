@@ -3,8 +3,7 @@ C:\Users\mldasilva-cc\Desktop\Assignment-3\Functions\bin\Debug\Functions.pdb
 C:\Users\mldasilva-cc\Desktop\Assignment-3\Functions\obj\Debug\Functions.csprojResolveAssemblyReference.cache
 C:\Users\mldasilva-cc\Desktop\Assignment-3\Functions\obj\Debug\Functions.dll
 C:\Users\mldasilva-cc\Desktop\Assignment-3\Functions\obj\Debug\Functions.pdb
-C:\Users\Jli1-cc\Desktop\GitHub\SQ-A3\Assignment-3\Functions\bin\Debug\Functions.dll
-C:\Users\Jli1-cc\Desktop\GitHub\SQ-A3\Assignment-3\Functions\bin\Debug\Functions.pdb
-C:\Users\Jli1-cc\Desktop\GitHub\SQ-A3\Assignment-3\Functions\obj\Debug\Functions.csprojResolveAssemblyReference.cache
-C:\Users\Jli1-cc\Desktop\GitHub\SQ-A3\Assignment-3\Functions\obj\Debug\Functions.dll
-C:\Users\Jli1-cc\Desktop\GitHub\SQ-A3\Assignment-3\Functions\obj\Debug\Functions.pdb
+G:\sq-A3\Assignment-3\Functions\bin\Debug\Functions.dll
+G:\sq-A3\Assignment-3\Functions\bin\Debug\Functions.pdb
+G:\sq-A3\Assignment-3\Functions\obj\Debug\Functions.dll
+G:\sq-A3\Assignment-3\Functions\obj\Debug\Functions.pdb

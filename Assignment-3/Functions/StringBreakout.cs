@@ -9,11 +9,13 @@ using System.Text.RegularExpressions;
 // allows types to be added to the same namespace.
 namespace Functions 
 {
+    
     public class StringBreakout
     {
         static  int numDigits;
         static  int numAlphas;
         static  int numOthers;
+
         // The NumberOfDigits static method calculates the number of
         // digit characters in the passed string:
         public static int NumberOfDigits(string theString) 
@@ -24,7 +26,6 @@ namespace Functions
                 if ( Char.IsDigit(theString[i]) ) 
                 {
                     count++; 
-
                 }
             }
             // let's hold onto this count
@@ -63,7 +64,7 @@ namespace Functions
         //public static int NumberOfOthers(string theString)
         //{
         //    int count = theString.Length; // start with the length of the string
-            
+
         //    count -= (numAlphas + numDigits);
 
         //    return count;
@@ -102,6 +103,21 @@ namespace Functions
             int.TryParse(stringDigits, out digits);
 
             return digits;
+        }
+
+        public static int NumberDigits
+        {
+            get { return numDigits; }
+        }
+
+        public static int NumberAlphas
+        {
+            get { return numAlphas; }
+        }
+
+        public static int NumberOthers
+        {
+            get { return numOthers; }
         }
     }
 }
