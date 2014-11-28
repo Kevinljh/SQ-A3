@@ -8,3 +8,8 @@ G:\sq-A3\Assignment-3\Functions\bin\Debug\Functions.pdb
 G:\sq-A3\Assignment-3\Functions\obj\Debug\Functions.dll
 G:\sq-A3\Assignment-3\Functions\obj\Debug\Functions.pdb
 G:\sq-A3\Assignment-3\Functions\obj\Debug\Functions.csprojResolveAssemblyReference.cache
+C:\Users\User1\Documents\GitHub\SQ-A3\Assignment-3\Functions\bin\Debug\Functions.dll
+C:\Users\User1\Documents\GitHub\SQ-A3\Assignment-3\Functions\bin\Debug\Functions.pdb
+C:\Users\User1\Documents\GitHub\SQ-A3\Assignment-3\Functions\obj\Debug\Functions.csprojResolveAssemblyReference.cache
+C:\Users\User1\Documents\GitHub\SQ-A3\Assignment-3\Functions\obj\Debug\Functions.dll
+C:\Users\User1\Documents\GitHub\SQ-A3\Assignment-3\Functions\obj\Debug\Functions.pdb
