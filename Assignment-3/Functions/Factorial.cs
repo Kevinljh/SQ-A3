@@ -9,13 +9,23 @@ using System;
 namespace Functions 
 { 
     public class Factorial 
-    { 
+    {
+        static int CalcResult;
+        static int output;
         // The "Calc" static method calculates the factorial value for the
         // specified integer passed in:
-        public static int Calc(int i) 
-        { 
-            return((i <= 1) ? 1 : (i * Calc(i-1))); 
-        } 
+        public static int Calc(int i)
+        {
+            output = ((i <= 1) ? 1 : (i * Calc(i - 1)));
+            CalcResult = output;           
+
+            return output;
+        }
+
+        public static int GetCalcResult
+        {
+            get { return CalcResult;  }
+        }
     }
 }
 

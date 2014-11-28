@@ -5,3 +5,10 @@ G:\sq-A3\Assignment-3\UnitTesting\bin\Debug\Functions.dll
 G:\sq-A3\Assignment-3\UnitTesting\bin\Debug\Functions.pdb
 G:\sq-A3\Assignment-3\UnitTesting\obj\Debug\UnitTesting.dll
 G:\sq-A3\Assignment-3\UnitTesting\obj\Debug\UnitTesting.pdb
+C:\Users\User1\Documents\GitHub\SQ-A3\Assignment-3\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
+C:\Users\User1\Documents\GitHub\SQ-A3\Assignment-3\UnitTesting\obj\Debug\UnitTesting.dll
+C:\Users\User1\Documents\GitHub\SQ-A3\Assignment-3\UnitTesting\obj\Debug\UnitTesting.pdb
+C:\Users\User1\Documents\GitHub\SQ-A3\Assignment-3\UnitTesting\bin\Debug\UnitTesting.dll
+C:\Users\User1\Documents\GitHub\SQ-A3\Assignment-3\UnitTesting\bin\Debug\UnitTesting.pdb
+C:\Users\User1\Documents\GitHub\SQ-A3\Assignment-3\UnitTesting\bin\Debug\Functions.dll
+C:\Users\User1\Documents\GitHub\SQ-A3\Assignment-3\UnitTesting\bin\Debug\Functions.pdb
